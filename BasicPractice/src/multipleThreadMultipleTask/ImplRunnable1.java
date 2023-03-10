@@ -4,7 +4,7 @@ public class ImplRunnable1 implements Runnable{
 
 	@Override
 	public void run() {
-		System.out.println("Task 3 under ImpleRUnnable1");
+		System.out.println("Task 3 under ImpleRunnable1");
 	}
 
 }
